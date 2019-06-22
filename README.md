@@ -11,8 +11,8 @@ Install the extension from the [Chrome Web Store](https://chrome.google.com/webs
 
 OR:
 
-- Clone the repository
-- cd into the repo directory
+- Clone the repository - `git clone https://github.com/emberjs/ember-inspector.git`
+- cd into the repo directory - `cd ember-inspector`
 - run `yarn install`
 - run `yarn global add ember-cli`
 - run `yarn build` to build the `dist` directory
@@ -28,8 +28,8 @@ Install the [Firefox addon](https://addons.mozilla.org/en-US/firefox/addon/ember
 
 OR:
 
-- Clone the repository
-- cd into the repo directory
+- Clone the repository - `git clone https://github.com/emberjs/ember-inspector.git`
+- cd into the repo directory - `cd ember-inspector`
 - run `yarn install`
 - run `yarn global add ember-cli`
 - run `yarn build` to build the `dist` directory
@@ -39,8 +39,8 @@ OR:
 
 ### Opera
 
-- Clone the repository
-- cd into the repo directory
+- Clone the repository - `git clone https://github.com/emberjs/ember-inspector.git`
+- cd into the repo directory - `cd ember-inspector`
 - run `yarn install`
 - run `yarn global add ember-cli`
 - run `yarn build` to build the `dist` directory
